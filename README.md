@@ -6,3 +6,4 @@ Aspirante em Análise e Desenvolvimento de Sistemas
 
 Me chamo Lucas Andrade, tenho 22 anos e sou natural de Brasília. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UDF. Sou apaixonado por tecnologia e acredito no seu poder de transformar realidades e criar soluções inovadoras para os desafios do mundo atual.
 
+![Lucas Andrade](https://github.com/user-attachments/assets/28e771cc-c418-40ea-8dbc-cac54eb46f6f)
